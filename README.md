@@ -16,7 +16,7 @@ The project answers the following business questions:
 
 ## 🧠 Tools & Technologies
 
-- **Python (Pandas, pyplot)**
+- **Python (Pandas, plotly)**
 - **Jupyter Notebook**
 - **Excel (for validation and quick visual summaries)**
 
