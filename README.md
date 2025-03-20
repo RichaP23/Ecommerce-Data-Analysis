@@ -22,7 +22,14 @@ The project answers the following business questions:
 
 ## 📂 Project Structure
 
-Ecommerce-Data-Analysis/ ├── data/ │ └── ecommerce_data.csv # Dataset used for analysis ├── notebooks/ │ └── ecommerce_analysis.ipynb # Jupyter notebook with full analysis ├── charts/ │ └── [Add charts/images here] # Visuals for presentation ├── presentation/ │ └── Ecommerce_Analysis_Presentation.pptx ├── README.md
+Ecommerce-Data-Analysis/ 
+├── data/ 
+│ └── ecommerce_data.csv # Dataset used for analysis 
+├── notebooks/ │ └── ecommerce_analysis.ipynb # Jupyter notebook with full analysis 
+├── charts/ │ └── [Add charts/images here] # Visuals for presentation 
+├── presentation/ 
+│ └── Ecommerce_Analysis_Presentation.pptx 
+├── README.md
 
 
 ## 📈 Key Insights Summary
